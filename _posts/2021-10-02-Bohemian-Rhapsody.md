@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Bohemian Rhapsody'
-subtitle: 'one of the greatest rock music ever'
+subtitle: 'One of the greatest rock music Ever'
 date: 2021-10-02
 categories: music
-cover: 'https://whereyouwatch.com/media/reviews/photos/original/16/53/29/bohemian-rhapsody-60-1505402601.jpg'
-tags:   queen
+cover: 'https://www.mellow947.fm/wp-content/uploads/2019/07/queen_group_bohemian_rhapsody_celebrities_98883_1920x1080.jpg'
+tags:   ueen
 ---
