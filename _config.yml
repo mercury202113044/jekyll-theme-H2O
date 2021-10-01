@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'Hongyi'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+description: 'a student from LSE'
+keyword: 'HONGYI'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -25,7 +25,7 @@ footer:
 
 # Author 配置博主信息
 author: 'HONGYI'
-nickname: '悟空'
+nickname: 'MERCURY'
 bio: 'a student from LSE'
 avatar: '/assets/img/profile.jpg'
 
@@ -38,7 +38,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: ''
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
